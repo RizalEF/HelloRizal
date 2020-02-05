@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Rizal Elsa Fanny Keren\n    1831710011"
+        android:text="Rizal Elsa Fanny\n    1831710011"
         android:textColor="#FFC107"
         android:textSize="28sp"
         app:layout_constraintBottom_toBottomOf="parent"
